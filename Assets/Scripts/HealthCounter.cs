@@ -4,11 +4,15 @@ using UnityEngine;
 
 public class HealthCounter : MonoBehaviour
 {
-    //public var lifeCount : int = 4;
-    //public guiGO : GUIText;
-    //function decrementLife()
-    //{
-    //lifeCount;
-    //guiGO.text = lifeCount;
-    //}
+    private var lifeCount : private object guiGO;
+
+    public object LifeCount { get => lifeCount; set => lifeCount = value; }
+
+    int = 4;
+    public guiGO : GUIText;
+    function DecrementLife ()
+    {
+        --lifeCount;
+        guiGO.text = lifeCount;
+    }
 }
