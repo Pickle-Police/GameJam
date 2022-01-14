@@ -245,7 +245,7 @@ GameObject:
   - component: {fileID: 405630526}
   - component: {fileID: 405630529}
   m_Layer: 3
-  m_Name: Card (in play)
+  m_Name: Blank Card (in play)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1263,7 +1263,7 @@ GameObject:
   - component: {fileID: 1284784164}
   - component: {fileID: 1284784167}
   m_Layer: 3
-  m_Name: Card (in deck)
+  m_Name: Blank Card (in deck)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
