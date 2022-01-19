@@ -336,7 +336,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 405630525}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -7, y: -2.7850487, z: 0}
+  m_LocalPosition: {x: 7.05, y: -2.7, z: 0}
   m_LocalScale: {x: 2.5, y: 3.5, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
@@ -485,7 +485,7 @@ GameObject:
   - component: {fileID: 517026324}
   - component: {fileID: 517026323}
   m_Layer: 3
-  m_Name: Devito Card
+  m_Name: DevitoCard
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -550,7 +550,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 517026320}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -4, y: -2.7850487, z: 0}
+  m_LocalPosition: {x: 6.97, y: -2.7850487, z: 0}
   m_LocalScale: {x: 0.1096865, y: 0.11382117, z: 0.1067}
   m_Children: []
   m_Father: {fileID: 0}
@@ -1420,7 +1420,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1187618242}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 7, y: -2.7850487, z: 0}
+  m_LocalPosition: {x: -3.86, y: -2.67, z: 0}
   m_LocalScale: {x: 0.119038835, y: 0.12165464, z: 0.11688851}
   m_Children: []
   m_Father: {fileID: 0}
@@ -1530,7 +1530,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1284784163}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 7, y: -2.7850487, z: 0}
+  m_LocalPosition: {x: -6.72, y: -2.73, z: 0}
   m_LocalScale: {x: 2.5, y: 3.5, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
