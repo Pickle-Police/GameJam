@@ -18,11 +18,10 @@ public class DrawCard : MonoBehaviour
     
     public void OnClick()
     {
-        for (var i = 0; i < 5; i++)
-        {
-         GameObject playerCard = Instantiate(cards[Random.Range(0, cards.Count)], new Vector3(0, 0, 0), Quaternion.identity);
-         playerCard.transform.SetParent(PlayerArea.transform, false);
-        }
+        Debug.Log("detect click");
+        Vector3 pos = PlayerArea.transform.position;
+        GameObject playerCard = Instantiate(cards[Random.Range(0, cards.Count)], pos, Quaternion.identity);
+        playerCard.transform.SetParent(PlayerArea.transform, true);
         
     }
 
