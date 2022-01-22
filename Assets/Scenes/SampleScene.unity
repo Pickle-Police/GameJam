@@ -2627,7 +2627,7 @@ GameObject:
   - component: {fileID: 708069816}
   - component: {fileID: 708069815}
   m_Layer: 3
-  m_Name: Tree Ent (1)
+  m_Name: Tree Ent Enemy
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -3445,7 +3445,7 @@ GameObject:
   - component: {fileID: 857453232}
   - component: {fileID: 857453231}
   m_Layer: 0
-  m_Name: Raccoon Card (1)
+  m_Name: Raccoon Card Enemy
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -3896,7 +3896,7 @@ GameObject:
   - component: {fileID: 910257782}
   - component: {fileID: 910257781}
   m_Layer: 3
-  m_Name: Gorilla Card (1)
+  m_Name: Gorilla Card Enemy
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -5525,7 +5525,7 @@ GameObject:
   - component: {fileID: 1358541042}
   - component: {fileID: 1358541041}
   m_Layer: 3
-  m_Name: Boar Card (1)
+  m_Name: Boar Card Enemy
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -6957,7 +6957,7 @@ GameObject:
   - component: {fileID: 1713054174}
   - component: {fileID: 1713054173}
   m_Layer: 0
-  m_Name: Python Card (1)
+  m_Name: Python Card Enemy
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
