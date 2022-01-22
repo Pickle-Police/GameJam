@@ -4567,7 +4567,7 @@ MonoBehaviour:
   cards: []
   PlayerArea: {fileID: 1880499987}
   EnemyArea: {fileID: 584996513}
-  BlankCard: {fileID: 686742403}
+  BlankCard: {fileID: 1794782834}
 --- !u!114 &1238241367
 MonoBehaviour:
   m_ObjectHideFlags: 0
