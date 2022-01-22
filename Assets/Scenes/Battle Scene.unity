@@ -2106,7 +2106,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 1
+  m_SortingOrder: 5
   m_Sprite: {fileID: 7482667652216324306, guid: 81ef3a2d2cbe9874eb90b02f8c08d2a8, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -4553,7 +4553,7 @@ MonoBehaviour:
   cards: []
   PlayerArea: {fileID: 1880499987}
   EnemyArea: {fileID: 584996513}
-  BlankCard: {fileID: 0}
+  BlankCard: {fileID: 686742403}
 --- !u!114 &1238241367
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -6175,7 +6175,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: a11fa7b62f5d7e74593a9df114debab4, type: 2}
+  - {fileID: -330754724358652067, guid: a0f5334fe444b2f42b5df0ed64505f5a, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
