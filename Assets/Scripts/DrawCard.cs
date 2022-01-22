@@ -9,11 +9,11 @@ public class DrawCard : MonoBehaviour
     public GameObject PlayerArea;
     public GameObject EnemyArea;
 
-    public GameObject DevitoCard;
+    public GameObject BlankCard;
 
     void Start()
     {
-        cards.Add(DevitoCard);
+        cards.Add(BlankCard);
     }
     
     public void OnClick()
